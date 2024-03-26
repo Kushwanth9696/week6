@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Kushwanth9696/week6.git/static/css/main.5f4bfd01.css",
-    "main.js": "/Kushwanth9696/week6.git/static/js/main.e2872e11.js",
-    "static/js/453.1712323f.chunk.js": "/Kushwanth9696/week6.git/static/js/453.1712323f.chunk.js",
-    "index.html": "/Kushwanth9696/week6.git/index.html",
-    "main.5f4bfd01.css.map": "/Kushwanth9696/week6.git/static/css/main.5f4bfd01.css.map",
-    "main.e2872e11.js.map": "/Kushwanth9696/week6.git/static/js/main.e2872e11.js.map",
-    "453.1712323f.chunk.js.map": "/Kushwanth9696/week6.git/static/js/453.1712323f.chunk.js.map"
+    "main.css": "/week6/static/css/main.5f4bfd01.css",
+    "main.js": "/week6/static/js/main.e0b4de5a.js",
+    "static/js/453.1712323f.chunk.js": "/week6/static/js/453.1712323f.chunk.js",
+    "index.html": "/week6/index.html",
+    "main.5f4bfd01.css.map": "/week6/static/css/main.5f4bfd01.css.map",
+    "main.e0b4de5a.js.map": "/week6/static/js/main.e0b4de5a.js.map",
+    "453.1712323f.chunk.js.map": "/week6/static/js/453.1712323f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f4bfd01.css",
-    "static/js/main.e2872e11.js"
+    "static/js/main.e0b4de5a.js"
   ]
 }
